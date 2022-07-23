@@ -22,8 +22,7 @@ Supervised Learning algorithms.
 a. Read all the 3 CSV files as DataFrame and store them into 3 separate variables. [1 Mark]
 b. Print Shape and columns of all the 3 DataFrames. [1 Mark]
 c. Compare Column names of all the 3 DataFrames and clearly write observations. [1 Mark]
-d. Print DataTypes of all the 3 DataFrames. [1 Mark]
-Proprietary content. © Great Learning. All Rights Reserved. Unauthorized use or distribution prohibited. 1
+d. Print DataTypes of all the 3 DataFrames. [1 Mark] 1
 e. Observe and share variation in ‘Class’ feature of all the 3 DaraFrames. [1 Mark]
 2. Data Preparation and Exploration: 5
 a. Unify all the variations in ‘Class’ feature for all the 3 DataFrames. [1 Marks]
